@@ -1,0 +1,16 @@
+Senchesa - NonStop
+
+Scienc-Fiksio Aventurludo en Esperanto
+
+Synopsis
+You are woken up from cryogenic sleep after thousands of years of cold storage. Disoriented and confused, having forgotten the original reason for being there, you must navigate through a world where very little makes sense. Everything is strange and you must learn a new language in order to solve puzzles and uncover the mystery.
+
+The world you are in is actually a generation ship, a massive spacecraft built from hollowed-out planetoids and other structures, originally built when the Earth was dying and man was looking for a new home in the stars. But something has gone wrong - sections of it are silent, others show signs of drastic change, and nothing is familiar. An accident in the past has caused the ship to go off course, miss its original target, and the current inhabitants are the product of thousands of years of genetic mutation and adaptation. 
+
+Some parts of the ship are dead. Others have built complex societies that make war and trade with others. Religions have arisen around the ship's systems. And no one knows why the ship was built, only that it's their world and it is all they know.
+
+Objektivo
+The objective is for the player to learn Esperanto while revealing the mysteries of the Senchesa, through immersion and translation activities. The current language is English, but others may be added by other developers. The game objective is to explore the ship, make contact with the inhabitants, and get it to a new world without crashing.
+
+Design
+Each level of the ship will reveal more of the story while building on the player's skills and fluency. Different aspects of language will be taught through interaction with the ship's inhabitants and systems. Each successive level will build on the previous lessions to solve puzzles and unlock the next level.
