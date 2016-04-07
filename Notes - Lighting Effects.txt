@@ -1,0 +1,70 @@
+module Light_Core
+  Effects = { #  <= DON'T change this!
+#-------------------------------------------------------------------------------
+# PUT YOUR EFFECTS HERE!
+# available light sources = light, light_m, light_s, torch, torch_m
+#-------------------------------------------------------------------------------
+  0 => ["light",250,0,true], # 0-4: large areas, no variance
+  1 => ["light",200,0,true],
+  2 => ["light",150,0,true],
+  3 => ["light",100,0,true],
+  4 => ["light",50,0, true],
+  # 5-9: medium lanterns, no variance
+  5 => ["light_m",250,0,true], 
+  6 => ["light_m",200,0,true],
+  7 => ["light_m",150,0,true],
+  8 => ["light_m",100,0,true],
+  9 => ["light_m",50,0, true],
+  # 10-14: small lanterns, no variance
+  10 => ["light_s",250,0,true], 
+  11 => ["light_s",200,0,true],
+  12 => ["light_s",150,0,true],
+  13 => ["light_s",100,0,true],
+  14 => ["light_s",50,0,true],
+  # 15-19: large lanterns, 20% variance
+  15 => ["light",225,20,true],
+  16 => ["light",200,20,true],
+  17 => ["light",150,20,true],
+  18 => ["light",100,20,true],
+  19 => ["light",50,20, true],
+  # 20-24: medium lanterns, 20% variance
+  20 => ["light_m",225,20,true],
+  21 => ["light_m",200,20,true],
+  22 => ["light_m",150,20,true],
+  23 => ["light_m",100,20,true],
+  24 => ["light_m",50,20, true],
+  # 25-29: small lanterns, 20% variance
+  25 => ["light_s",225,20,true],
+  26 => ["light_s",200,20,true],
+  27 => ["light_s",150,20,true],
+  28 => ["light_s",100,20,true],
+  29 => ["light_s",50,20, true],
+  # 30-34: large lanterns, 50% variance
+  30 => ["light",200,50,true],
+  31 => ["light",175,50,true],
+  32 => ["light",150,50,true],
+  33 => ["light",100,50,true],
+  34 => ["light",50,50, true],
+  # 34-39: medium lanterns, 50% variance
+  35 => ["light_m",200,50,true],
+  36 => ["light_m",175,50,true],
+  37 => ["light_m",150,50,true],
+  38 => ["light_m",100,50,true],
+  39 => ["light_m",50,50, true],
+  # 40-44: small lanterns, 50% variance
+  40 => ["light_s",200,50,true],
+  41 => ["light_s",175,50,true],
+  42 => ["light_s",150,50,true],
+  43 => ["light_s",100,50,true],
+  44 => ["light_s",50,50, true],
+  # 45-49: extreme flickering lights, varying sizes
+  45 => ["light",255,50,true],
+  46 => ["light_m",255,50,true],
+  47 => ["light_s",255,50,true],
+  48 => ["torch",255,50,true],
+  49 => ["torch_m",255,50,true],
+
+#-------------------------------------------------------------------------------
+# End of effecs configuration
+#------------------------------------------------------------------------------- 
+  } #  <= DON'T change this!

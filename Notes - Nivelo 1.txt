@@ -1,0 +1,33 @@
+﻿Synopsis:
+Player wakes up in a dark room filled with computers and broken cold-sleep pods.
+
+
+Functional game goals:
+1. Find some clothes, a lantern, and a weapon
+2. Turn on the lights
+3. Pass the quizzes to advance to the next level
+
+Allies:
+The robot: potential companion, will join the player and act as translator. Can also fight.
+
+Enemies:
+Glowing slime (brilanta ĵeleo): In the hallways, must be defeated before player can move on to level 2. 
+		Each drops a quiz that must be answered correctly.
+Mutant (mutaciulo): 
+
+Eye plant (okulo planto): 
+
+Vocabulary goals:
+Verbs:
+esti, morti, vivi, dormi, trovi, 
+
+Adjectives:
+varma, malvarma, morta, luma, malluma, brilanta, 
+
+Nouns:
+mi, vi, ni, gxi, li, sxi, ili
+cxambro, vitro, cilindro, kunulo, roboto, lampo, robo, glavo, ĵeleo
+mutaciulo, okulo, planto, 
+
+Others:
+kaj, nur, kun

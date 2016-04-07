@@ -1,0 +1,17 @@
+We would like to thank the following developers for creating such awesome materials. Without their hard work, this wouldn't have been possible. Well, maybe it would have, but it'd have been a lot more work for me. Thanks, guys!
+
+Graphics
+Hanzo's tile sets (from which I borrowed bits)
+
+
+Sounds
+
+
+Scripts
+Khas Awesome Lighting Effects
+Yanfly's Ace Core Engine, Message System, and Menu Engine
+Jason "Wavelength" Commander's Healing Level Up and Encounter Healing
+V.M. & Diamonious Tales for the Basic Game Time script
+
+
+Everything Else I haven't mentioned
