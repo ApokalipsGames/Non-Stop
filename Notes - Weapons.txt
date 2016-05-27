@@ -1,0 +1,42 @@
+Weapons (Armiloj)
+1H Melee Weapons:
+Hand Axe (Hakileto)
+Knife (trancilo)
+Dagger (ponardo)
+Short Sword (mallonga glavo)
+Long Sword (glavo)
+Saber (sabro)
+Chainsword (cxenglavo)
+
+2H Melee weapons
+Great sword (Granda Glavo)
+Battle Axe (Granda Hakilo)
+Spear (Lanco)
+Pike (Halebardo)
+
+Bows & Crossbows
+Short bow (Mallonga pafarko)
+Long bow (Pafarko)
+Crossbow (arbalesto)
+Hand crossbow (mano arbalesto)
+
+Firearms
+Pistol (pistolo)
+Shotgun (cxasfusilo)
+Rifle (fusilo)
+Submachinegun (mitraleto)
+Automatic rifle (automata fusilo)
+
+Energy Weapons
+Laser pistol (Laser-pistolo)
+Plasma pistol (Plasmo-pistolo)
+Sonic pistol (Sononda pistolo)
+Laser rifle (Laser-fusilo)
+Plasma rifle (Plasmo-fusilo)
+Sonic rifle (Sononda fusilo)
+
+
+Heavy Weapons
+
+
+

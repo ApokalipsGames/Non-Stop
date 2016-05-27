@@ -4,6 +4,9 @@ Player wakes up in a dark room filled with computers and broken cold-sleep pods.
 
 Functional game goals:
 1. Find some clothes, a lantern, and a weapon
+	- the clothes contain a book, which has a password in it
+	- the robes identify the player as one of the crew - without them, she can't go anywhere
+	- 
 2. Turn on the lights
 3. Pass the quizzes to advance to the next level
 
@@ -13,9 +16,12 @@ The robot: potential companion, will join the player and act as translator. Can 
 Enemies:
 Glowing slime (brilanta ĵeleo): In the hallways, must be defeated before player can move on to level 2. 
 		Each drops a quiz that must be answered correctly.
-Mutant (mutaciulo): 
 
-Eye plant (okulo planto): 
+Mutant (mutaciulo): big, hulking humanoids that guard the final exit.
+
+Eye plant (okulo planto): telepathic mutated plants
+
+Rato: mutated rats, found in the control room - they've damaged the computer system
 
 Vocabulary goals:
 Verbs:
@@ -31,3 +37,5 @@ mutaciulo, okulo, planto,
 
 Others:
 kaj, nur, kun
+
+Game goals: 
